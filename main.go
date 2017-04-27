@@ -11,4 +11,9 @@ func main() {
 	fmt.Println(algo.BinarySearch(array,7))
 	
 	fmt.Println(algo.BinarySearch(array,1))
+	
+	fmt.Println(algo.BinarySearch(array,13))
+	
+	
+	fmt.Println(algo.BinarySearch(array,4))
 }
